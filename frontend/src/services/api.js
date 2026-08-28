@@ -1,7 +1,7 @@
 // Centralized API client. Every request in the app goes through here so
 // the backend URL and auth header logic live in exactly one place.
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+const API_URL = import.meta.env.VITE_API_URL || 'https://quiz-maker-api-10cf.onrender.com/api/quizzes';
 
 function getToken() {
   return sessionStorage.getItem('token');
