@@ -150,8 +150,7 @@ online-quiz-maker/
 │
 └── README.md
 
----
-
+```
 ## 🔗 Live Application
 
 🌐 **[Open Online Quiz Maker](https://quiz-maker-codsoft-task2.vercel.app)**
