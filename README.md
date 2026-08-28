@@ -6,7 +6,7 @@ Online Quiz Maker allows users to register, create quizzes, browse quizzes, take
 
 ## 🚀 Live Demo
 
-👉 **[Open Online Quiz Maker]([YOUR_VERCEL_FRONTEND_URL]https://quiz-maker-codsoft-task2.vercel.app)**
+👉 **[Open Online Quiz Maker]([https://quiz-maker-codsoft-task2.vercel.app])**
 
 > The application is deployed and can be tested directly from the link above.
 
