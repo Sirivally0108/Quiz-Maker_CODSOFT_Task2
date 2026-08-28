@@ -149,3 +149,41 @@ online-quiz-maker/
 │   └── README.md
 │
 └── README.md
+
+---
+
+## 🔗 Live Application
+
+🌐 **[Open Online Quiz Maker](https://quiz-maker-codsoft-task2.vercel.app)**
+
+### Demo Account
+
+**Email:** `demo@quizmaker.com`  
+**Password:** `Demo@1234`
+
+---
+
+## ⚙️ Backend API
+
+**[Backend API](https://quiz-maker-api-10cf.onrender.com)**
+
+The backend provides REST APIs for authentication, quiz management, and quiz attempts.
+
+---
+
+## 💻 GitHub Repository
+
+**[View Source Code](https://github.com/Sirivally0108/Quiz-Maker_CODSOFT_Task2)**
+
+---
+
+## 🧪 Quick Testing
+
+1. Open the **Live Application**.
+2. Login using the demo account.
+3. Browse the available quizzes.
+4. Select a quiz and take it.
+5. Submit the quiz.
+6. Check the automatically calculated result.
+7. Open the Dashboard to view attempts.
+8. Register a new account to test quiz creation.
