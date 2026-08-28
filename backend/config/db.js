@@ -7,10 +7,13 @@ const pool = new Pool({
   database: process.env.DB_NAME,
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD,
+
+  // SSL is required for Render PostgreSQL
+  ssl: {
+    rejectUnauthorized: false,
+  },
 });
 
-// Verify the connection as soon as the app starts so config problems
-// fail fast instead of surfacing as confusing query errors later.
 pool
   .connect()
   .then((client) => {
